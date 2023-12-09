@@ -1,0 +1,15 @@
+{
+  "name": "square",
+  "version": "1.0.0",
+  "description": "square-function",
+  "scripts": {
+    "test": "mocha"  
+  },
+  "author": "Anastasia Schneider",
+  "private": true,
+  "devDependencies": {
+    "mocha": "^10.2.0",
+    "must": "^0.13.4"
+  }
+}
+
